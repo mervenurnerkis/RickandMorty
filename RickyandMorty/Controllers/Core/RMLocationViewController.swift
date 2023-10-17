@@ -9,6 +9,7 @@ import UIKit
 
 final class RMLocationViewController: UIViewController {
 
+    // Controller to show and search for location
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemBackground

@@ -9,6 +9,7 @@ import UIKit
 
 final class RMCharacterViewController: UIViewController {
 
+    // Controller to show and search for character 
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemBackground
